@@ -10,9 +10,17 @@
   background-color: green;
 }
 
+.btn-secondary,
 .btn-secondary {
   background-color: #413d3d;
   color: #e2e2e2;
+  font-family: "ZCOOL QingKe HuangYou", cursive;
+  border-radius: 10px;
+}
+
+.btn-secondary-not-selected {
+  background-color: #e2e2e2;
+  color: #413d3d;
   font-family: "ZCOOL QingKe HuangYou", cursive;
   border-radius: 10px;
 }
